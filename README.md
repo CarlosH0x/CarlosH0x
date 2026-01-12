@@ -2,7 +2,7 @@
 
 Atuo como **Suporte Técnico em TI autônomo**, com experiência prática em atendimento técnico, manutenção de computadores e configuração de ambientes Windows e Linux.
 
-Tenho foco em **infraestrutura, sistemas operacionais e redes**, buscando evoluir para atuar como **Analista de Suporte N2 / Analista de Infraestrutura**, com ênfase em **automação, administração de sistemas e melhoria de processos**.
+Tenho foco em **infraestrutura, sistemas operacionais e redes**, buscando sempre evoluir. para atuar como **Analista de Suporte N2 / Analista de Infraestrutura**, com ênfase em **automação, administração de sistemas e melhoria de processos**.
 
 Atualmente, venho aprofundando meus conhecimentos em **Linux, Windows Server e Redes de Computadores**, além de iniciar estudos em **automação com scripts e Python**, como forma de me diferenciar no mercado.
 
@@ -52,5 +52,6 @@ Atualmente, venho aprofundando meus conhecimentos em **Linux, Windows Server e R
 ---
 
 ## 📚 Projetos (Em construção)
+- Jornada Linux (https://github.com/CarlosH0x/jornada-linux)
 
 ---
