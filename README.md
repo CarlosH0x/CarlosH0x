@@ -1,15 +1,13 @@
-# 👋 Olá, eu sou Carlos Henrique
+# 👋 Olá, sejam bem-vindos
 
-Atuo como **Suporte Técnico em TI autônomo**, com experiência prática em atendimento técnico, manutenção de computadores e configuração de ambientes Windows e Linux.
+Sou **Carlos** e atuo como **Suporte Técnico em TI autônomo**, com experiência prática em atendimento a clientes, manutenção de computadores e configuração de ambientes Windows e Linux.
 
-Tenho foco em **infraestrutura, sistemas operacionais e redes**, buscando sempre evoluir. para atuar como **Analista de Suporte N2 / Analista de Infraestrutura**, com ênfase em **automação, administração de sistemas e melhoria de processos**.
-
-Atualmente, venho aprofundando meus conhecimentos em **Linux, Windows Server e Redes de Computadores**, além de iniciar estudos em **automação com scripts e Python**, como forma de me diferenciar no mercado.
+Atualmente, venho aprofundando meus conhecimentos em **Linux, Windows Server e Redes de Computadores**, além de iniciar estudos em **automação com scripts e Python**, buscando sempre evoluir profissionalmente e ter novas oportunidades.
 
 💻 **Suporte Técnico em TI | Infraestrutura | Linux | Windows**  
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (2024)**  
 🔧 Atuação como **profissional autônomo em TI**  
-📺 Criador de conteúdo no YouTube sobre tecnologia, hardware, TI, além de analise e unboxing de produtos diversos
+📺 Criador de conteúdo no **YouTube** sobre tecnologia, hardware, TI, além de analise e unboxing de produtos diversos
 
 ---
 
@@ -18,7 +16,7 @@ Atualmente, venho aprofundando meus conhecimentos em **Linux, Windows Server e R
 - Montagem e manutenção de computadores
 - Diagnóstico e resolução de problemas de hardware
 - Instalação e configuração de **Windows e Linux**
-- Configurações iniciais de sistemas (drivers, usuários, permissões)
+- Configurações iniciais de sistemas (drivers, softwares e configurações diversas)
 - Configuração básica de **redes locais**
 - Instalação e configuração de impressoras
 - Consultoria técnica para usuários e pequenos ambientes
@@ -33,8 +31,8 @@ Atualmente, venho aprofundando meus conhecimentos em **Linux, Windows Server e R
 ## 🖥️ Sistemas e Tecnologias
 
 ### Sistemas Operacionais
-- Windows 10 e 11
-- Linux: Ubuntu, Debian, Linux Mint, openSUSE, EndeavourOS, Fedora
+- Windows 11 e Server
+- Linux: Distros base Debian/Ubuntu e RedHat/Fedora/Rocky
 
 ### Infraestrutura e Redes
 - Conceitos de redes (TCP/IP, IP, máscara, gateway, DNS)
@@ -45,9 +43,8 @@ Atualmente, venho aprofundando meus conhecimentos em **Linux, Windows Server e R
 
 ### Linguagens e Scripts
 - **Python** (em aprendizado, com foco em automação para suporte e infraestrutura)
-- **Shell Script (Bash)** – básico
+- **Shell Script (Bash)** – básico 
 - **PowerShell** – básico
-- **C** – conhecimento introdutório (base acadêmica)
 
 ---
 
