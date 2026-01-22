@@ -1,54 +1,41 @@
-# 👋 Olá, sejam bem-vindos
+# Olá! Sou Carlos Henrique, Técnico de Suporte em TI
 
-Sou **Carlos** e atuo como **Suporte Técnico em TI autônomo**, com experiência prática em atendimento a clientes, manutenção de computadores e configuração de ambientes Windows e Linux.
+Bem-vindo ao meu perfil no GitHub.
 
-Atualmente, venho aprofundando meus conhecimentos em **Linux, Windows Server e Redes de Computadores**, além de iniciar estudos em **automação com scripts e Python**, buscando sempre evoluir profissionalmente e ter novas oportunidades.
+Atuo como profissional autônomo em Suporte Técnico a mais de 5 anos, com foco em manutenção de hardware, instalação e configuração de sistemas Windows e Linux, e resolução de problemas para usuários finais e pequenos ambientes.
 
-💻 **Suporte Técnico em TI | Infraestrutura | Linux | Windows**  
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas (2024)**  
-🔧 Atuação como **profissional autônomo em TI**  
-📺 Criador de conteúdo no **YouTube** sobre tecnologia, hardware, TI, além de analise e unboxing de produtos diversos
+Graduado em Análise e Desenvolvimento de Sistemas (2024), estou aprofundando conhecimentos em administração Linux, redes de computadores e Windows Server, além de explorar automação com Python e scripts Bash para tarefas de suporte e infraestrutura.
 
 ---
 
-## 🛠️ O que eu faço hoje
+## 🛠️ O Que Faço no Dia a Dia
+- Montagem, manutenção e upgrade de computadores.
+- Diagnóstico e resolução de problemas de hardware.
+- Instalação e configuração de Windows e Linux (incluindo dual boot e drivers).
+- Configuração básica de redes locais (roteadores, Wi-Fi, IP, DHCP).
+- Instalação e troubleshooting de impressoras e periféricos.
+- Consultoria técnica e suporte remoto/presencial para clientes.
+---
+## Conhecimentos Técnicos
+### Sistemas Operacionais
+- Windows 11 e Server (configurações iniciais, Active Directory básico).
+- Linux: Distros Debian/Ubuntu, RedHat/Fedora/Rocky (uso diário, comandos, gerenciamento de pacotes).
 
-- Montagem e manutenção de computadores
-- Diagnóstico e resolução de problemas de hardware
-- Instalação e configuração de **Windows e Linux**
-- Configurações iniciais de sistemas (drivers, softwares e configurações diversas)
-- Configuração básica de **redes locais**
-- Instalação e configuração de impressoras
-- Consultoria técnica para usuários e pequenos ambientes
+### Infraestrutura e Redes
+- Conceitos fundamentais: TCP/IP, máscara, gateway, DNS.
+- Configurações básicas de serviços de rede e ambientes servidores (nível inicial).
+
+### Linguagens e Scripts
+- Python: Em aprendizado, com foco em automação para suporte técnico.
+- Bash (Shell Script) e PowerShell: Nível básico, aplicado em tarefas práticas.
 
 ---
+
+## Projetos e Estudos em Andamento
+- [Jornada no Linux](https://github.com/CarlosH0x/jornada-linux): Repositório com documentação de comandos, processos, redes, usuários e scripts práticos.
+
+---
+
 ## 📫 Contato e Redes Sociais
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-lopes-alves-de-paula-5b015226b/)
 - [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GameTecAnime)
-
----
-
-## 🖥️ Sistemas e Tecnologias
-
-### Sistemas Operacionais
-- Windows 11 e Server
-- Linux: Distros base Debian/Ubuntu e RedHat/Fedora/Rocky
-
-### Infraestrutura e Redes
-- Conceitos de redes (TCP/IP, IP, máscara, gateway, DNS)
-- Noções de Active Directory
-- Configurações básicas de serviços de rede
-- Ambientes Windows Server (nível inicial)
-- Ambientes Linux (uso e administração básica)
-
-### Linguagens e Scripts
-- **Python** (em aprendizado, com foco em automação para suporte e infraestrutura)
-- **Shell Script (Bash)** – básico 
-- **PowerShell** – básico
-
----
-
-## 📚 Projetos (Em construção)
-- Jornada Linux (https://github.com/CarlosH0x/jornada-linux)
-
----
