@@ -31,8 +31,10 @@ Graduado em Análise e Desenvolvimento de Sistemas (2024), estou aprofundando co
 
 ---
 
-## Projetos e Estudos em Andamento
+## Projetos
 - [Jornada no Linux](https://github.com/CarlosH0x/jornada-linux): Repositório com documentação de comandos, processos, redes, usuários e scripts práticos.
+
+- [Projeto Rede Corporativa](https://github.com/CarlosH0x/projeto-rede-corporativa) : Esse repositório documenta um projeto prático de infraestrutura de redes simulado no Cisco Packet Tracer.
 
 ---
 
