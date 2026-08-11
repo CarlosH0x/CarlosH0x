@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub.
 
-Atuo como profissional autônomo em Suporte Técnico a mais de 5 anos, com foco em manutenção de hardware, instalação e configuração de sistemas Windows e Linux, e resolução de problemas para usuários finais e pequenos ambientes.
+Atuo como profissional autônomo em Suporte Técnico desde 2016, com foco em manutenção de hardware, instalação e configuração de sistemas Windows e Linux, e resolução de problemas para usuários finais e pequenos ambientes.
 
 Graduado em Análise e Desenvolvimento de Sistemas (2024), estou aprofundando conhecimentos em administração Linux, redes de computadores e Windows Server, além de explorar automação com Python e scripts Bash para tarefas de suporte e infraestrutura.
 
